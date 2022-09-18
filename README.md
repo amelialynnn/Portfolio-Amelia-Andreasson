@@ -6,7 +6,7 @@ As I start my third semester at IT-Högskolan in Gothenburg this fall, it is tim
 
 I am an eager learner, who enjoys working with things that require problem solving. With experinece in HTML, CSS, JavaScript, Vue.js, Node.js, version control with Git as well as working with agile methods, such as Scrum and Kanban, I am ready to transform my theoretical knowledge into practical skills!
 
-Before starting my intership, I will have completed the following courses:
+Before starting my internship, I will have completed the following courses:
 
 - HTML & CSS
 - Native JavaScript
@@ -17,32 +17,39 @@ Before starting my intership, I will have completed the following courses:
 
 ## GitHub portfolio :briefcase:
 
-| Repo                          | Description                                     |
-| ----------------------------- | ----------------------------------------------- |
-| [HTML & CSS][html_css]        | HTML and CSS project                            |
-| [Native JavaScript][nativejs] | Project using public API                        |
-| [Vue.js][vuejs]               | Project built with Vue in combination with Vite |
-| [Agile Project][agile]        | Group project, Scrum methodology                |
+| Repo                                    | Description                                     |
+| --------------------------------------- | ----------------------------------------------- |
+| [Lofoten Trek][lofoten-trek-repo]       | Lofoten Trek - HTML and CSS project             |
+| [DrinkUp][drinkup-repo]                 | Drinkup - Project using public API              |
+| [Weather App][weather-app-repo]         | Project built with Vue in combination with Vite |
+| [Agile Project][agile-group-project]    | Group project, Scrum methodology                |
+| [Fullstack App][fullstack-app-repo]     | Project built with React on the frontend side and Node.js, Express and cloud database Google Firestore on the backend side. |
 
-[html_css]: https://github.com/amelialynnn/html-css
-[nativejs]: https://github.com/amelialynnn/native-js
-[vuejs]: https://github.com/amelialynnn/vue-js
-[agile]: https://github.com/Wagsjo/Webshop/commits?author=amelialynnn
+[lofoten-trek-repo]: https://github.com/amelialynnn/lofoten-trek
+[drinkup-repo]: https://github.com/amelialynnn/drinkup
+[weather-app-repo]: https://github.com/amelialynnn/vue-js
+[agile-group-project]: https://github.com/Wagsjo/Webshop/commits?author=amelialynnn
+[fullstack-app-repo]: https://github.com/amelialynnn/hamsterwars-fullstack
 
 ## Deployed applications :desktop_computer:
 
 This is a selection of deployed applications.
 
-| Application              | Description                               |
-| ------------------------ | ----------------------------------------- |
-| [DrinkUp][drinkup]       | Web application for cocktail recipes [^1] |
-| [WeatherApp][weatherapp] | Weather application [^2]                  |
+| Application                         | Description                               |
+| ----------------------------------- | ----------------------------------------- |
+| [Lofoten Trek][lofoten-trek]        | First html and css project at IT-Högskolan [^1] |
+| [DrinkUp][drinkup]                  | Web application for cocktail recipes [^2] |
+| [Weather App][weather-app]          | Weather application. Focusing on functionality rather than design [^3] |
+| [Fullstack App][fullstack-app]      | Vote for the cutest hamster, upload new hamsters ready for battle or just browse through cute hamsters in the gallery. |
 
-[^1]: API https://www.thecocktaildb.com/
-[^2]: API https://openweathermap.org/
+[^1]: Done in collab with https://github.com/alexwololo/
+[^2]: API https://www.thecocktaildb.com/
+[^3]: API https://openweathermap.org/
 
-[drinkup]: https://ameliaandreasson.se/
-[weatherapp]: https://amelialynnn.github.io/
+[lofoten-trek]: https://amelialynnn.github.io/lofoten-trek/
+[drinkup]: https://amelialynnn.github.io/drinkup/
+[weather-app]: https://amelialynnn.github.io/weather-app/
+[fullstack-app]: https://hamsterwars-fullstack-app.herokuapp.com/
 
 ## Contact me :iphone:
 
