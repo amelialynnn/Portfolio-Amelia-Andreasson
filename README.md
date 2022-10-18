@@ -2,9 +2,9 @@
 
 I am a creative student who has changed career paths from finance & marketing to front-end development – and I don't regret it for a second!
 
-As I start my third semester at IT-Högskolan in Gothenburg this fall, it is time for my first internship period, which will take place from August 22 to October 14.
+As I start my fourth and final semester at IT-Högskolan in Gothenburg this spring, it is time for my second internship period, which will take place from January 23 to May 12.
 
-I am an eager learner, who enjoys working with things that require problem solving. With experinece in HTML, CSS, JavaScript, Vue.js, Node.js, version control with Git as well as working with agile methods, such as Scrum and Kanban, I am ready to transform my theoretical knowledge into practical skills!
+I am an eager learner, who enjoys working with things that require problem solving. With experience in HTML, CSS, JavaScript, version control with Git as well as working with Vue and React, I am ready to transform my theoretical knowledge into practical skills!
 
 Before starting my internship, I will have completed the following courses:
 
@@ -14,16 +14,18 @@ Before starting my internship, I will have completed the following courses:
 - JavaScript with Frameworks - Vue.js
 - Agile Development - Git, Scrum
 - Full Stack Development - Node.js, Express, React, TypeScript
+- Project management
+- CMS development
 
 ## GitHub portfolio :briefcase:
 
-| Repo                                    | Description                                     |
-| --------------------------------------- | ----------------------------------------------- |
-| [Lofoten Trek][lofoten-trek-repo]       | Lofoten Trek - HTML and CSS project             |
-| [DrinkUp][drinkup-repo]                 | Drinkup - Project using public API              |
-| [Weather App][weather-app-repo]         | Project built with Vue in combination with Vite |
-| [Agile Project][agile-group-project]    | Group project, Scrum methodology                |
-| [Fullstack App][fullstack-app-repo]     | Project built with React on the frontend side and Node.js, Express and cloud database Google Firestore on the backend side. |
+| Repo                                 | Description                                                                                                                |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [Lofoten Trek][lofoten-trek-repo]    | Lofoten Trek - First html and css project at IT-Högskolan                                                                  |
+| [DrinkUp][drinkup-repo]              | Drinkup - Project using public API                                                                                         |
+| [Weather App][weather-app-repo]      | Project built with Vue in combination with Vite                                                                            |
+| [Agile Project][agile-group-project] | Group project, Scrum methodology                                                                                           |
+| [Fullstack App][fullstack-app-repo]  | Project built with React on the frontend side and Node.js, Express and cloud database Google Firestore on the backend side |
 
 [lofoten-trek-repo]: https://github.com/amelialynnn/lofoten-trek
 [drinkup-repo]: https://github.com/amelialynnn/drinkup
@@ -35,12 +37,12 @@ Before starting my internship, I will have completed the following courses:
 
 This is a selection of deployed applications.
 
-| Application                         | Description                               |
-| ----------------------------------- | ----------------------------------------- |
-| [Lofoten Trek][lofoten-trek]        | First html and css project at IT-Högskolan [^1] |
-| [DrinkUp][drinkup]                  | Web application for cocktail recipes [^2] |
-| [Weather App][weather-app]          | Weather application. Focusing on functionality rather than design [^3] |
-| [Fullstack App][fullstack-app]      | Vote for the cutest hamster, upload new hamsters ready for battle or just browse through cute hamsters in the gallery. |
+| Application                    | Description                                                                                                           |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| [Lofoten Trek][lofoten-trek]   | Group project. Contact page done by me [^1]                                                                           |
+| [DrinkUp][drinkup]             | Web application for cocktail recipes [^2]                                                                             |
+| [Weather App][weather-app]     | Weather application. Focusing on functionality rather than design [^3]                                                |
+| [Fullstack App][fullstack-app] | Vote for the cutest hamster, upload new hamsters ready for battle or just browse through cute hamsters in the gallery |
 
 [^1]: Done in collab with https://github.com/alexwololo/
 [^2]: API https://www.thecocktaildb.com/
