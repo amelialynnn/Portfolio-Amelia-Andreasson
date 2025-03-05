@@ -42,7 +42,6 @@ This is a selection of deployed applications.
 | [Lofoten Trek][lofoten-trek]   | Group project. Contact page done by me [^1]                                                                           |
 | [DrinkUp][drinkup]             | Web application for cocktail recipes [^2]                                                                             |
 | [Weather App][weather-app]     | Weather application. Focusing on functionality rather than design [^3]                                                |
-| [Fullstack App][fullstack-app] | Vote for the cutest hamster, upload new hamsters ready for battle or just browse through cute hamsters in the gallery |
 
 [^1]: Done in collab with https://github.com/alexwololo/
 [^2]: API https://www.thecocktaildb.com/
